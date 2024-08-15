@@ -1,5 +1,6 @@
 */
 *.json
 !world/
+!ops.json
 *.properties
 !server.properties
